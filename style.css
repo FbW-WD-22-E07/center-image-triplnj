@@ -27,6 +27,5 @@ img {
   border: solid 4px black;
 }
 img:hover {
-  width: 45%;
-  height: 65%;
+  transform:scale(10);
 }
